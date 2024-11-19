@@ -1,5 +1,6 @@
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import hero from '/11.jpg'
 
 export function Home() {
   return (
@@ -9,7 +10,9 @@ export function Home() {
         <div
           className="absolute inset-0 z-0"
           style={{
-            backgroundImage: 'url(https://images.unsplash.com/photo-1544735716-392fe2489ffa)',
+            backgroundImage: `url(${hero}) !important`,
+
+
             backgroundPosition: 'center',
             backgroundSize: 'cover',
           }}
@@ -89,7 +92,7 @@ const categories = [
   {
     id: 'honey',
     name: 'Honey',
-    image: 'https://images.unsplash.com/photo-1587049352846-4a222e784d38',
+    image: 'https://images.unsplash.com/photo-1597481499750-3e6b22637e12',
   },
   {
     id: 'spices',

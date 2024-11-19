@@ -14,7 +14,7 @@ export function ProductDetails() {
     name: 'Wild Himalayan Honey',
     price: 1200,
     description: 'Pure and natural honey collected from the Himalayan regions of Nepal. Known for its unique taste and medicinal properties.',
-    image: 'https://images.unsplash.com/photo-1587049352847-4a5ba36ba039',
+    image: 'https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5',
     details: [
       'Sourced from altitudes of 2,500m to 3,500m',
       '100% pure and natural',

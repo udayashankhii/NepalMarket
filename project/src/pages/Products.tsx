@@ -92,7 +92,7 @@ const products = [
     id: '1',
     name: 'Wild Himalayan Honey',
     price: '1,200',
-    image: 'https://images.unsplash.com/photo-1587049352847-4a5ba36ba039',
+    image: 'https://images.unsplash.com/photo-1627435601361-ec25f5b1d0e5',
     category: 'honey',
   },
   {
